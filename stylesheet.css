@@ -1,0 +1,25 @@
+
+#presentations{
+    color:black;
+    width: 20%;
+    height: 10%;
+    padding: 2%;
+    background-color: cornsilk;
+    top:15%;
+    left:55%;
+    
+    
+    position: absolute;
+}
+#bios{
+    color:black;
+    width: 20%;
+    height: 10%;
+    padding: 2.5px;
+    background-color: cornsilk;
+
+    top: 15%;
+    left:25%;
+
+    position: absolute;
+}

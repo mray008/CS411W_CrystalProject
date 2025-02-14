@@ -5,11 +5,10 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "type": "msedge",
+            "type": "chrome",
             "request": "launch",
-            "name": "Launch Edge against localhost",
-           
-            "file": "${workspaceFolder}/index.html"
+            "name": "Open Index.html",
+            "file": "c:\\Users\\Madeline\\Desktop\\CS410\\Webite\\Index.html"
         }
     ]
 }

@@ -5,7 +5,17 @@ body {
     background-position: center center;
     overflow-x: hidden;
 }
-
+#wholeDiv{
+    margin-top: 0%;
+}
+#buttonDiv1{
+    margin-top: 2%;
+    margin-bottom: 10px;
+}
+buttonDiv2{
+    margin-top: 2%;
+    margin-bottom: 10px;
+}
 #presentations {
     background-color: Transparent;
     width: 15vw;
@@ -19,6 +29,7 @@ body {
     margin-top: 1%;
     left: 55%;
     position: absolute;
+    margin-bottom: 10px;
 }
 
 #presentations:hover {
@@ -33,6 +44,7 @@ body {
     margin-top: 1%;
     left: 55%;
     position: absolute;
+    margin-bottom: 10px;
 }
 
 #bios {

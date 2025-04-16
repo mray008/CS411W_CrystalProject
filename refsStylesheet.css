@@ -13,7 +13,7 @@ body {
     background-repeat: no-repeat;
     position: relative;
     background-position: center;
-    text-align: center;
+    text-align: left;
     color: black;
     box-shadow: 4px 4px 5px gray;
 }

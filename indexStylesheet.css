@@ -27,7 +27,7 @@ buttonDiv2{
     background-position: center center;
     background-image: url(buttons/buttonOff.png);
     margin-top: 1%;
-    left: 55%;
+    left: 60%;
     position: absolute;
     margin-bottom: 10px;
 }
@@ -42,7 +42,7 @@ buttonDiv2{
     background-position: center center;
     background-image: url(buttons/buttonOn.png);
     margin-top: 1%;
-    left: 55%;
+    left: 60%;
     position: absolute;
     margin-bottom: 10px;
 }
@@ -74,6 +74,66 @@ buttonDiv2{
     background-image: url(buttons/buttonOn.png);
     margin-top: 1%;
     left: 25%;
+    position: absolute;
+}
+
+#refs {
+    background-color: Transparent;
+    width: 15vw;
+    height: 10vh;
+    padding: 2px;
+    border: none;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-image: url(buttons/buttonOff.png);
+    margin-top: 1%;
+    left: 10%;
+    position: absolute;
+}
+
+#refs:hover {
+    background-color: Transparent;
+    color: black;
+    width: 15vw;
+    height: 10vh;
+    padding: 2.5px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-image: url(buttons/buttonOn.png);
+    margin-top: 1%;
+    left: 10%;
+    position: absolute;
+}
+
+#gloss {
+    background-color: Transparent;
+    width: 15vw;
+    height: 10vh;
+    padding: 2px;
+    border: none;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-image: url(buttons/buttonOff.png);
+    margin-top: 1%;
+    left: 75%;
+    position: absolute;
+}
+
+#gloss:hover {
+    background-color: Transparent;
+    color: black;
+    width: 15vw;
+    height: 10vh;
+    padding: 2.5px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-image: url(buttons/buttonOn.png);
+    margin-top: 1%;
+    left: 75%;
     position: absolute;
 }
 
@@ -152,6 +212,6 @@ buttonDiv2{
 }
 
 #solutionP {
-    color: blackk;
+    color: black;
     line-height: 150%;
 }
